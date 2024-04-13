@@ -25,7 +25,7 @@ public class SwapLowerUpperCase {
     }
 
     static String swapLU(String text) {
-        StringBuffer stringBuffer = new StringBuffer();
+        StringBuilder stringBuffer = new StringBuilder();
         for (int i = 0; i < text.length(); i++) {
             char c = text.charAt(i);
             if (Character.isLowerCase(c)) {

@@ -5,8 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05995881-231a-448e-a87f-970ea9d1404c" name="Changes" comment="Questions added">
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/RomanNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/EvenAndOddPrinterBy2Threads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/FindLongestStringFromGivenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/LastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/NthHighestSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/PracticeQuestions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/PracticeQuestions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/PrintNumbersAndAlphabetsAlternate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/ReverseStringUsingJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/StreamGroupByExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/StreamsConcepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/StringExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/StringLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/UniqueDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/codility/Solution1OddOccurrencesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Base8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/DuplicateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/MsgBundle7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/MsgBundle7_US_en.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/MsgBundle7_en.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/NthHighestSalaryExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Reflect8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/TestGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/TestRegex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/readCSV/ReadCSVDataAndGroupByIDAndConvertToJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/readCSV/TransactionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/threads/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/threads/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/threads/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/threads/ThreadTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Interview-Questions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Interview-Questions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/CheckPalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/CheckPalindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/CountNumberOfOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/CountNumberOfOccurrences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/PrimeNumberCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/PrimeNumberCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/SecondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/SecondLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/SwapLowerUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/SwapLowerUpperCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +70,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -26,9 +78,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2Dw40JnzLUHmSCziUiTFOTlUlff" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,23 +95,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A.executor": "Run",
+    "Application.ArraysUnion.executor": "Run",
+    "Application.B.executor": "Run",
+    "Application.C.executor": "Run",
+    "Application.CheckPalindromeString.executor": "Run",
+    "Application.CountNumberOfOccurrences.executor": "Run",
+    "Application.D.executor": "Run",
+    "Application.DuplicateElements.executor": "Run",
+    "Application.EvenAndOddPrinterBy2Threads.executor": "Run",
+    "Application.EvenNumber.executor": "Run",
+    "Application.F.executor": "Run",
+    "Application.FindLongestStringFromGivenArray.executor": "Run",
+    "Application.LastDigit.executor": "Run",
+    "Application.NthHighestSalary.executor": "Run",
+    "Application.NthHighestSalaryExample.executor": "Run",
+    "Application.PracticeQuestions1.executor": "Run",
+    "Application.PracticeQuestions2.executor": "Run",
+    "Application.PrimeNumberCheck.executor": "Run",
+    "Application.PrintEvenAndOddAlternate.executor": "Run",
+    "Application.PrintNumbersAndAlphabetsAlternate.executor": "Run",
+    "Application.Reflect8.executor": "Run",
+    "Application.ReverseStringUsingJava8.executor": "Debug",
+    "Application.SecondLargestElement.executor": "Run",
+    "Application.Seven.executor": "Run",
+    "Application.StreamGroupByExamples.executor": "Run",
+    "Application.StreamsConcepts.executor": "Run",
+    "Application.StringExamples.executor": "Run",
+    "Application.StringLearn.executor": "Run",
+    "Application.TestGenerics.executor": "Run",
+    "Application.TestRegex.executor": "Run",
+    "Application.ThreadTester.executor": "Run",
+    "Application.UniqueDigits.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
-}</component>
-  <component name="RunManager" selected="Application.RomanNumbers">
-    <configuration name="FindDuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sushobhan.FindDuplicateElements" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sushobhan" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sushobhan" />
+      <recent name="com.sushobhan.exam" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NthHighestSalaryExample">
+    <configuration name="CheckPalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sushobhan.CheckPalindromeString" />
       <module name="Java-Interview-Questions" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +173,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstNonRepeatedCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sushobhan.FirstNonRepeatedCharacter" />
+    <configuration name="NthHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sushobhan.NthHighestSalary" />
       <module name="Java-Interview-Questions" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +186,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sushobhan.RomanNumbers" />
+    <configuration name="NthHighestSalaryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sushobhan.exam.NthHighestSalaryExample" />
+      <module name="Java-Interview-Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sushobhan.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeQuestions2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sushobhan.PracticeQuestions2" />
       <module name="Java-Interview-Questions" />
       <extension name="coverage">
         <pattern>
@@ -91,21 +212,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sushobhan.SortArray" />
-      <module name="Java-Interview-Questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sushobhan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwapLowerUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sushobhan.SwapLowerUpperCase" />
+    <configuration name="StreamGroupByExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sushobhan.StreamGroupByExamples" />
       <module name="Java-Interview-Questions" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RomanNumbers" />
-        <item itemvalue="Application.FirstNonRepeatedCharacter" />
-        <item itemvalue="Application.SwapLowerUpperCase" />
-        <item itemvalue="Application.SortArray" />
-        <item itemvalue="Application.FindDuplicateElements" />
+        <item itemvalue="Application.NthHighestSalaryExample" />
+        <item itemvalue="Application.NthHighestSalary" />
+        <item itemvalue="Application.StreamGroupByExamples" />
+        <item itemvalue="Application.CheckPalindromeString" />
+        <item itemvalue="Application.PracticeQuestions2" />
       </list>
     </recent_temporary>
   </component>
@@ -175,5 +283,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Questions added" />
     <option name="LAST_COMMIT_MESSAGE" value="Questions added" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_interview_questions$PrintEvenAndOddAlternate.ic" NAME="PrintEvenAndOddAlternate Coverage Results" MODIFIED="1711252044487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sushobhan.*</FILTER>
+    </SUITE>
   </component>
 </project>
