@@ -5,59 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05995881-231a-448e-a87f-970ea9d1404c" name="Changes" comment="Questions added">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/EvenAndOddPrinterBy2Threads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/FindLongestStringFromGivenArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/LastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/NthHighestSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/PracticeQuestions1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/PracticeQuestions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/PrintNumbersAndAlphabetsAlternate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/ReverseStringUsingJava8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/StreamGroupByExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/StreamsConcepts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/StringExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/StringLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/UniqueDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/codility/Solution1OddOccurrencesInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Base8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/DuplicateElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/F.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/MsgBundle7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/MsgBundle7_US_en.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/MsgBundle7_en.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/NthHighestSalaryExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Reflect8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Seven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/TestGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/TestRegex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/readCSV/ReadCSVDataAndGroupByIDAndConvertToJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/readCSV/TransactionData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/threads/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/threads/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/threads/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/threads/ThreadTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/CountOccurenceFromAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/SortStringArrayByLengthOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/CheckArraySortedOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/CountNumberOfAnIntegerInALinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/IdComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/TakeAndDropWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/mathOperations/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/mathOperations/MathOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/package1/CountDuplicateWordsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/package1/PushZerosToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/package1/RandomNumbersBetweenAGivenRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/package1/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/package1/SwapLetters2AtATime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/FindVowelsInaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/observerPattern/ObserverMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/observerPattern/observable/IPhoneObservableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/observerPattern/observable/StockObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/observerPattern/observer/EmailAlertObserverImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/observerPattern/observer/MobileAlertObserverImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/observerPattern/observer/NotificationAlertObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/parkingLot/ApplicationMainClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/parkingLot/EntranceGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/parkingLot/ExitGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/parkingLot/FourWheelerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/parkingLot/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/parkingLot/ParkingSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/parkingLot/ParkingSpotManagerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/parkingLot/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/parkingLot/TwoWheelerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/parkingLot/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/parkingLot/VehicleTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/parkingLot/priceStrategy/ParkingCostStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/strategyPattern/GoodsVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/strategyPattern/MainClassClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/strategyPattern/OffRoadVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/strategyPattern/SpecialVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/strategyPattern/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/strategyPattern/strategyClientAsk/DriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/strategyPattern/strategyClientAsk/NormalDriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/strategyPattern/strategyClientAsk/SportDriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sushobhan/sapient/strategyPattern/strategyClientAsk/XYZDriveStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Interview-Questions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Interview-Questions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/CheckPalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/CheckPalindromeString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sushobhan/CountNumberOfOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/CountNumberOfOccurrences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/PrimeNumberCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/PrimeNumberCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/SecondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/SecondLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/FindLongestStringFromGivenArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/FindLongestStringFromGivenArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/FirstNonRepeatedCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/FirstNonRepeatedCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/LastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/LastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/NthHighestSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/NthHighestSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/PracticeQuestions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/PracticeQuestions2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sushobhan/SwapLowerUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/SwapLowerUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/exam/NthHighestSalaryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/exam/NthHighestSalaryExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/readCSV/ReadCSVDataAndGroupByIDAndConvertToJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/readCSV/ReadCSVDataAndGroupByIDAndConvertToJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sushobhan/readCSV/TransactionData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sushobhan/readCSV/TransactionData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +72,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -78,6 +81,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kumar-sushobhan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kumar-sushobhan/Java-interview-questions.git&quot;,
+    &quot;accountId&quot;: &quot;ea5ad167-ff51-4aba-95a7-2c9095e740d0&quot;
+  }
+}</component>
   <component name="KotlinCodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
@@ -101,30 +116,48 @@
     "Application.ArraysUnion.executor": "Run",
     "Application.B.executor": "Run",
     "Application.C.executor": "Run",
+    "Application.CheckArraySortedOrNot.executor": "Run",
     "Application.CheckPalindromeString.executor": "Run",
+    "Application.CountDuplicateWordsInAString.executor": "Run",
+    "Application.CountNumberOfAnIntegerInALinkedList.executor": "Run",
     "Application.CountNumberOfOccurrences.executor": "Run",
+    "Application.CountOccurenceFromAString.executor": "Run",
     "Application.D.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
     "Application.EvenAndOddPrinterBy2Threads.executor": "Run",
     "Application.EvenNumber.executor": "Run",
     "Application.F.executor": "Run",
     "Application.FindLongestStringFromGivenArray.executor": "Run",
+    "Application.FindVowelsInaString.executor": "Run",
+    "Application.FirstNonRepeatedCharacter.executor": "Run",
     "Application.LastDigit.executor": "Run",
+    "Application.MainClassClient.executor": "Run",
+    "Application.MathOperations.executor": "Run",
     "Application.NthHighestSalary.executor": "Run",
     "Application.NthHighestSalaryExample.executor": "Run",
+    "Application.ObserverMain.executor": "Run",
     "Application.PracticeQuestions1.executor": "Run",
     "Application.PracticeQuestions2.executor": "Run",
     "Application.PrimeNumberCheck.executor": "Run",
     "Application.PrintEvenAndOddAlternate.executor": "Run",
     "Application.PrintNumbersAndAlphabetsAlternate.executor": "Run",
+    "Application.PushZerosToEnd.executor": "Run",
+    "Application.RandomNumbersBetweenAGivenRange.executor": "Run",
+    "Application.ReadCSVDataAndGroupByIDAndConvertToJson.executor": "Run",
     "Application.Reflect8.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
     "Application.ReverseStringUsingJava8.executor": "Debug",
     "Application.SecondLargestElement.executor": "Run",
     "Application.Seven.executor": "Run",
+    "Application.SortStringArrayByLengthOfWords.executor": "Run",
     "Application.StreamGroupByExamples.executor": "Run",
     "Application.StreamsConcepts.executor": "Run",
     "Application.StringExamples.executor": "Run",
     "Application.StringLearn.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.SwapLetters2AtATime.executor": "Run",
+    "Application.SwapLowerUpperCase.executor": "Run",
+    "Application.TakeAndDropWhile.executor": "Run",
     "Application.TestGenerics.executor": "Run",
     "Application.TestRegex.executor": "Run",
     "Application.ThreadTester.executor": "Run",
@@ -147,25 +180,29 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.sushobhan" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sushobhan.sapient.parkingLot" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.sushobhan" />
       <recent name="com.sushobhan.exam" />
+      <recent name="com.sushobhan.sapient.strategyPattern.strategyClientAsk" />
+      <recent name="com.sushobhan" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NthHighestSalaryExample">
-    <configuration name="CheckPalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sushobhan.CheckPalindromeString" />
+  <component name="RunManager" selected="Application.SwapLetters2AtATime">
+    <configuration name="CountDuplicateWordsInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sushobhan.package1.CountDuplicateWordsInAString" />
       <module name="Java-Interview-Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sushobhan.*" />
+          <option name="PATTERN" value="com.sushobhan.package1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sushobhan.NthHighestSalary" />
+    <configuration name="PushZerosToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sushobhan.package1.PushZerosToEnd" />
       <module name="Java-Interview-Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sushobhan.*" />
+          <option name="PATTERN" value="com.sushobhan.package1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthHighestSalaryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sushobhan.exam.NthHighestSalaryExample" />
+    <configuration name="RandomNumbersBetweenAGivenRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sushobhan.package1.RandomNumbersBetweenAGivenRange" />
       <module name="Java-Interview-Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sushobhan.exam.*" />
+          <option name="PATTERN" value="com.sushobhan.package1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeQuestions2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sushobhan.PracticeQuestions2" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sushobhan.package1.RemoveDuplicates" />
       <module name="Java-Interview-Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sushobhan.*" />
+          <option name="PATTERN" value="com.sushobhan.package1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamGroupByExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sushobhan.StreamGroupByExamples" />
+    <configuration name="SwapLetters2AtATime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sushobhan.package1.SwapLetters2AtATime" />
       <module name="Java-Interview-Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sushobhan.*" />
+          <option name="PATTERN" value="com.sushobhan.package1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NthHighestSalaryExample" />
-        <item itemvalue="Application.NthHighestSalary" />
-        <item itemvalue="Application.StreamGroupByExamples" />
-        <item itemvalue="Application.CheckPalindromeString" />
-        <item itemvalue="Application.PracticeQuestions2" />
+        <item itemvalue="Application.SwapLetters2AtATime" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.PushZerosToEnd" />
+        <item itemvalue="Application.RandomNumbersBetweenAGivenRange" />
+        <item itemvalue="Application.CountDuplicateWordsInAString" />
       </list>
     </recent_temporary>
   </component>

@@ -92,13 +92,14 @@ public class PracticeQuestions2 {
         // 10. Given a list of strings, sort them according to increasing order of their length
         List<String> fruits = Arrays.asList("Mango", "Apple", "Banana", "Kiwi");
         List<String> sortedFruitsList = fruits.stream()
-                .sorted(Comparator.comparingInt(String::length).reversed())
+                .sorted(Comparator.comparingInt(String::length)
+                        .reversed())
                 .toList();
-        System.out.println(sortedFruitsList);
+        System.out.println("Sorted on length : " + sortedFruitsList);
 
         // 11. How do you find the intersection of two arrays of integers
-        int[] a = { 1, 2, 5, 6, 2, 3, 5 };
-        int[] b = { 2, 4, 5, 6, 8, 9, 4, 6, 5 };
+        int[] a = {1, 2, 5, 6, 2, 3, 5};
+        int[] b = {2, 4, 5, 6, 8, 9, 4, 6, 5};
         int[] unionArrays = IntStream.concat(Arrays.stream(a), Arrays.stream(b))
                 .distinct()
                 .toArray();

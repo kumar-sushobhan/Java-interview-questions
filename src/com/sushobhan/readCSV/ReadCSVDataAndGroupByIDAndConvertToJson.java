@@ -33,7 +33,7 @@ public class ReadCSVDataAndGroupByIDAndConvertToJson {
 
                 // Group data by transaction data by transaction ID
                 Map<Long, List<TransactionData>> listMap = dataList.stream()
-                        .collect(Collectors.groupingBy(TransactionData::getTransactionID, Collectors.toList()));
+                        .collect(Collectors.groupingBy(TransactionData::transactionID, Collectors.toList()));
                 System.out.println(listMap);
 
                 // Convert to json object

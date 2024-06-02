@@ -27,13 +27,13 @@ public class CountNumberOfOccurrences {
         return Arrays.stream(a)
                 .boxed()
                 //.collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
-                .collect(Collectors.groupingBy(t -> t, Collectors.counting()));
+                .collect(Collectors.groupingBy(t -> t, LinkedHashMap::new, Collectors.counting()));
     }
 
     static List<Integer> countDuplicateOccurrenceByJava8(int[] a) {
         return Arrays.stream(a)
                 .boxed()
-                .collect(Collectors.groupingBy(t -> t, Collectors.counting()))
+                .collect(Collectors.groupingBy(t -> t, LinkedHashMap::new, Collectors.counting()))
                 .entrySet()
                 .stream()
                 .filter(map -> map.getValue() > 1)

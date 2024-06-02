@@ -18,10 +18,11 @@ public class NthHighestSalary {
         employeeSalary.put("Sushobhan7", 1000);
         employeeSalary.put("Sushobhan8", 7000);
         employeeSalary.put("Sushobhan9", 8000);
-        employeeSalary.put("Sushobhan10",9000);
+        employeeSalary.put("Sushobhan10", 9000);
 
         System.out.println("3rd highest salary : " + getNthSalaryUpdated(employeeSalary, 1));
         System.out.println("3rd highest salary without grouping : " + getNthSalaryUpdated(employeeSalary, 1));
+        System.out.println("Average salary : " + findAverage(employeeSalary));
     }
 
     private static Map.Entry<String, Integer> getNthSalary(Map<String, Integer> employeeMap, int number) {
@@ -29,7 +30,7 @@ public class NthHighestSalary {
                 .stream()
                 .sorted(Collections.reverseOrder(Map.Entry.comparingByValue()))
                 .toList()
-                .get(number-1);
+                .get(number - 1);
     }
 
     private static Map.Entry<Integer, List<String>> getNthSalaryUpdated(Map<String, Integer> employeeSalary, int number) {
@@ -40,6 +41,15 @@ public class NthHighestSalary {
                 .stream()
                 .sorted(Collections.reverseOrder(Map.Entry.comparingByKey()))
                 .toList()
-                .get(number-1);
+                .get(number - 1);
+    }
+
+    private static double findAverage(Map<String, Integer> employeeMap) {
+        return employeeMap.entrySet()
+                .stream()
+                .map(Map.Entry::getValue)
+                .mapToInt(Integer::intValue)
+                .summaryStatistics()
+                .getAverage();
     }
 }
